@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+attributee==0.1.5
+dotty_dict
+lap
+matplotlib
+mmcls>=0.16.0,<1.0.0
+motmetrics
+packaging
+pandas<=1.3.5
+pycocotools
+scipy<=1.7.3
+seaborn
+terminaltables
+tqdm
+=======
+attributee
+dotty_dict
+einops
+lap
+matplotlib
+mmcls>=0.16.0,<1.0.0
+motmetrics
+packaging
+pandas<=1.3.5
+pycocotools
+scipy<=1.7.3
+seaborn
+terminaltables
+tqdm
+>>>>>>> e79491ec8f0b8c86fda947fbaaa824c66ab2a991

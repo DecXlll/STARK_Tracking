@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+cython
+numba==0.53.0
+numpy
+=======
+cython
+numpy
+>>>>>>> e79491ec8f0b8c86fda947fbaaa824c66ab2a991
